@@ -25,7 +25,7 @@ Below is an overview of the project pipeline and the purpose of each script.
 
 
 
-###  `train_frcnn_if_needed.py` *(Optional)*
+###  `train_frcnn.py` *(Optional)*
 - Trains a Faster R-CNN model using the generated annotations and masks.
 - Outputs a trained model checkpoint (`trained_frcnn.pth`).
 
