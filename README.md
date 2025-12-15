@@ -56,3 +56,6 @@ Below is an overview of the project pipeline and the purpose of each script.
 
 ### `med_nlm.py`
 - Designed to remove salt-and-pepper and Gaussian noise while preserving image structure using Med. filter + Non Local Means.
+
+### 'dnn.m'
+- DnCNN denoising for MATLAB with median filter built in
