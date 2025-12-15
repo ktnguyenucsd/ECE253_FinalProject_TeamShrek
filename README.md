@@ -14,6 +14,8 @@ project_root/
 ##  Scripts Pipeline Overview
 
 Below is an overview of the project pipeline and the purpose of each script.
+### 'noise_exposure_corruption.py' *(Optional)*
+- Adds gaussian noise and exposure variation to input images.
 
 ### `saltpeppercorruption.py` *(Optional)*
 - Applies synthetic visual corruptions (Salt and pepper/gaussian noise) to the input images.
